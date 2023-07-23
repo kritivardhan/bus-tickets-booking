@@ -1,0 +1,10 @@
+.btn-white{
+    background-color: #fff;
+    color: #030303;
+    border: 1px solid #030303;
+    &.selcted{
+      background-color: #0b5ed7;
+      color: #fff;
+      border: 1px solid #0b5ed7;
+    }
+  }
